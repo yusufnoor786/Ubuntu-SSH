@@ -1,4 +1,4 @@
-name: linux
+name: Ubuntu_Server
 on: 
   workflow_dispatch:
 defaults:
